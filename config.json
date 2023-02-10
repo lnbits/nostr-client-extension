@@ -1,6 +1,6 @@
 {
-  "name": "NostrAdmin",
-  "short_description": "Admin daemon for Nostr",
+  "name": "Nostr Client",
+  "short_description": "Nostr client for extensions",
   "tile": "/nostradmin/static/images/nostr-bitcoin.png",
   "contributors": ["calle"]
 }
