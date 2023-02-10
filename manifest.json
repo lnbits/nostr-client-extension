@@ -1,0 +1,9 @@
+{
+    "repos": [
+        {
+            "id": "gerty",
+            "organisation": "lnbits",
+            "repository": "nostr-client-extension"
+        }
+    ]
+}
