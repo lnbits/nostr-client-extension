@@ -1,7 +1,7 @@
 {
     "repos": [
         {
-            "id": "gerty",
+            "id": "nostr-client",
             "organisation": "lnbits",
             "repository": "nostr-client-extension"
         }
